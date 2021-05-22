@@ -19,3 +19,7 @@ public class SpringBootDockerApplication {
 	}
 
 }
+
+
+// docker build -t spring-boot-docker.jar .
+// docker run -p 5050:8080 spring-boot-docker.jar
